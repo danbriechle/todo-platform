@@ -10,6 +10,11 @@ Both `backend` and `frontend` are Git submodules.
 
 ---
 
+## Whats the point ?
+- The point of this app is to practice containerization, k8s, and 'safer' deployments.
+- I encourage you to get it built clean and then try to deploy some broken stuff :P
+- This is a greatway to explore the submodules work flow. 
+
 ## Prerequisites
 
 - Docker Desktop installed
